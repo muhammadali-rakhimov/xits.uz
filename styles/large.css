@@ -1,0 +1,16 @@
+@media screen and (min-width: 1200px) {
+    
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.header-logo-search input:focus {
+    padding-right: 100px;
+    transition: 0.1s;
+}
+
+.header-logo-form input {
+    width: 160px !important;
+}
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+    
+}

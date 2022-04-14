@@ -1,0 +1,15 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.header-logo-form {
+    display: grid;
+}
+
+.header-logo-form input {
+    width: 100px !important;
+}
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}

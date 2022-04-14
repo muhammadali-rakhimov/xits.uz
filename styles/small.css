@@ -1,0 +1,23 @@
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+/*START*//*START*//*START*//*START*//*START*//*START*//*START*/
+
+.header-logo-search input {
+    width: 80% !important;
+}
+
+.header-logo-form-2 {
+    margin-left: 50px;
+}
+
+.header-logo-form {
+    margin-top: 10px;
+}
+
+.header-logo-search, .header-logo-form {
+	margin-left: 25px;
+}
+
+/*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*//*END*/
+
+}
